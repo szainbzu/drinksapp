@@ -23,6 +23,7 @@ public class MainActivity extends AppCompatActivity {
 
         setViews();
         setSpinner();
+        //this is new code......
 
     }
 
