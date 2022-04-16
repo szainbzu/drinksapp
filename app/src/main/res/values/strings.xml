@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">drinksapp</string>
+    <string name="select_your_drink">Select Your Drink</string>
+    <string name="submit">Submit</string>
+
+</resources>
